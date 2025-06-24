@@ -10,9 +10,10 @@
 
 <br>
 
-<h2 align="center"> 🛡️ Certifications & Learning Process </h2>
+<h2 align="center"> 🛡️ CERTIFICATIONS & LEARNING PROCESS</h2>
 <br>
-<p align="center"> bla bla bla</p>
+<p align="center"> Currently deepening my knowledge in cybersecurity and cloud security through hands-on learning platforms and official certifications. </p>
+<p align="center"> I enjoy applying theory through practical labs and challenges to develop real-world reflexes.</p>
 <br>
 <table align="center" style="border: none;" margin="24px;">
     <tr>
@@ -41,20 +42,26 @@
 
 <br><br>
 
-<h2 align="center"> 🔧 Tech Toolbox </h2>
+<h2 align="center"> 🔧 TECH TOOLBOX </h2>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Power BI](https://img.shields.io/badge/-PowerBI-333?style=flat&logo=powerbi)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+</p>
 
 <br>
-<h2 align="left"> 📫 Let's connect </h2>
+<h3 align="left"> 📫 Let's connect </h3>
 <br>
 
 - 🤝 [LinkedIn](https://www.linkedin.com/in/enrik-dolle/)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/ton_pseudo_tryhackme)
-- 📩 [e-mail](enrikdolle.pro@gmail.com)
+- 🛡️ [TryHackMe](https://tryhackme.com/p/RikoRiken)
+- 📩 [E-mail](enrikdolle.pro@gmail.com)
