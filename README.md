@@ -1,3 +1,5 @@
+<!-- Intro part -->
+
 <h1 align="center"> 👋 Hi, I'm Enrik! </h1><br>
 
 🎓 Currently an **Apprentice in IT and Cybersecurity**  
@@ -10,7 +12,56 @@
 
 <br>
 
-<h2 align="center"> 🛡️ CERTIFICATIONS & LEARNING PROCESS</h2>
+<!-- ToolBox part -->
+
+<h2 align="center"> 🔧 TECH TOOLBOX </h2>
+<br>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
+</p>
+
+<div align="center">
+    <img src=./assets/about-skills_terminal.gif>
+</div>
+
+<br>
+
+<!-- ToolBox part -->
+
+<h2 align="center"> 📚 LEARNING & PROJECTS </h2>
+<br>
+I'm currently learning...<br><br>
+
+```yaml
+- Python scripting for automation
+- IAM and Cloud Policies
+- AWS Cloud Practitioner
+```
+
+<br>
+And some projects are coming...<br><br>
+
+```yaml
+- Log Analyzer Script (Python + Pandas)
+- IAM Policy Visualizer (JSON parser)
+- THM CTF Writeups (soon in public)
+```
+
+<br>
+
+<!-- Certification part -->
+
+<h2 align="center"> 🛡️ CERTIFICATIONS & PROCESS</h2>
 <br>
 <p align="center"> Currently deepening my knowledge in cybersecurity and cloud security through hands-on learning platforms and official certifications. Of course, I enjoy applying theory through practical labs and challenges to develop real-world reflexes.</p>
 
@@ -42,31 +93,3 @@
 </table>
 
 <br><br>
-
-<h2 align="center"> 🔧 TECH TOOLBOX </h2>
-<br>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff">
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
-    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
-</p>
-
-<div align="center">
-    <img src=./assets/about-skills_terminal.gif>
-</div>
-
-<br>
-<h3 align="left"> 📫 Let's connect </h3>
-<br>
-
-- 🤝 [LinkedIn](https://www.linkedin.com/in/enrik-dolle/)
-- 🛡️ [TryHackMe](https://tryhackme.com/p/RikoRiken)
-- 📩 [E-mail](enrikdolle.pro@gmail.com)
