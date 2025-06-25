@@ -59,6 +59,10 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
 </p>
 
+<div align="center">
+    <img src=./assets/about-skills_terminal.gif>
+</div>
+
 <br>
 <h3 align="left"> 📫 Let's connect </h3>
 <br>
