@@ -13,7 +13,7 @@
 <h2 align="center"> 🛡️ CERTIFICATIONS & LEARNING PROCESS</h2>
 <br>
 <p align="center"> Currently deepening my knowledge in cybersecurity and cloud security through hands-on learning platforms and official certifications. Of course, I enjoy applying theory through practical labs and challenges to develop real-world reflexes.</p>
-<br>
+
 <h3 align="center">TryHackMe Badges</h3>
 
 <table align="center" style="border: none;" margin="24px;">
