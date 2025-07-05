@@ -43,7 +43,7 @@
 I'm currently learning...<br><br>
 
 ```yaml
-- Python scripting for automation
+- Scripting for automation (Bash, Python...)
 - IAM and Cloud Policies
 - AWS Cloud Practitioner
 ```
@@ -52,7 +52,7 @@ I'm currently learning...<br><br>
 And some projects are coming...<br><br>
 
 ```yaml
-- Log Analyzer Script (Python + Pandas)
+- Script analyzer for Linux Authentication logs (Python)
 - IAM Policy Visualizer (JSON parser)
 - THM CTF Writeups (soon in public)
 ```
