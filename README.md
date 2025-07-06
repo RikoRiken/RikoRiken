@@ -52,7 +52,7 @@ I'm currently learning...<br><br>
 And some projects are coming...<br><br>
 
 ```yaml
-- Script analyzer for Linux Authentication logs (Python)
+- Script analyzer for Linux Authentication logs (Python)    # See "LogGuard" repository below
 - IAM Policy Visualizer (JSON parser)
 - THM CTF Writeups (soon in public)
 ```
