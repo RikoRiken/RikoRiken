@@ -52,8 +52,8 @@ I'm currently learning...<br><br>
 And some projects are coming...<br><br>
 
 ```yaml
-- Script analyzer for Linux Authentication logs (Python)    # See "LogGuard" repository below
-- IAM Policy Visualizer (JSON parser)
+- Script analyzer for Linux Authentication logs (Python, HTML/CSS)    # See "LogGuard" repository below
+- Browser FingerPrinting Analyzer (Python, JS & SQL)                  # See "Unmasked" repository below
 - THM CTF Writeups (soon in public)
 ```
 
