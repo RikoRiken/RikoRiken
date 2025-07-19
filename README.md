@@ -53,7 +53,7 @@ And some projects are coming...<br><br>
 
 ```yaml
 - Script analyzer for Linux Authentication logs (Python, HTML/CSS)    # See "LogGuard" repository below
-- Browser FingerPrinting Analyzer (Python, JS & SQL)                  # See "Unmasked" repository below
+- Browser FingerPrinting Analyzer (Javascript, HTML/CSS)              # See "Unmasked" repository below
 - THM CTF Writeups (soon in public)
 ```
 
